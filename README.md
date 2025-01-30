@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sabinayaselvan
 - 👀 I’m interested in : web development 
-- 🌱 I’m currently learning :.Frontend development 
+- 🌱 I’m currently learning :.Frontend development, wordpress developer
 - 💞️ I’m looking to collaborate on :developers
 - 😄 my profile show: step by step growth towards my short time goal(web development)
 - ⚡ monday motivation: ...if i can do , everybody can do 
